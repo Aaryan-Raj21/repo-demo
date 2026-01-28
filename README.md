@@ -1,4 +1,4 @@
 # repo-demo
 This is my first Git Repository
 <br>
-Author - Aryan Raj
+Author - Aryan Raj (amit)
